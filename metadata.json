@@ -1,0 +1,7 @@
+{
+  "name": "SHIGHRA",
+  "description": "AI-powered Diabetic Retinopathy screening platform designed for rural and field healthcare workers. Early detection. Anywhere.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
